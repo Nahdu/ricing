@@ -1,1 +1,2 @@
-# ricing
+# Ricing
+My personal ricing repo.
